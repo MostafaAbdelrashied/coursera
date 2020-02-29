@@ -1,0 +1,31 @@
+,id,score,category,name,address,postalcode,city,href,latitude,longitude,n_cluster
+0,4a2705a4f964a52052881fe3,8.7,Аптека марихуаны,Grey Area Coffeeshop,Oude Leliestraat 2,1015 AW,Amsterdam,/v/grey-area-coffeeshop/4a2705a4f964a52052881fe3,52.37464085629683,4.8888392324601915,10
+1,4bff1a50480eef3b4f6e9e7f,8.6,Аптека марихуаны,Coffeeshop Amsterdam IBIZA,Hemonystraat 16,1074 BP,Amsterdam,/v/coffeeshop-amsterdam-ibiza/4bff1a50480eef3b4f6e9e7f,52.35740549090043,4.902059975090081,1
+2,4a270064f964a52051831fe3,8.7,Аптека марихуаны,De Dampkring,Handboogstraat 29,1012 XM,Amsterdam,/v/de-dampkring/4a270064f964a52051831fe3,52.367759228585875,4.890478402376175,1
+3,4a270344f964a520f3841fe3,8.2,Аптека марихуаны,Coffeeshop Easy Times,Prinsengracht 476,1017 KG,Amsterdam,/v/coffeeshop-easy-times/4a270344f964a520f3841fe3,52.3644519113586,4.885096399784709,1
+4,4a2700c1f964a5204e841fe3,8.1,Аптека марихуаны,Barney's Uptown,Haarlemmerstraat 105,1013 EW,Amsterdam,/v/barneys-uptown/4a2700c1f964a5204e841fe3,52.38076763072493,4.890644961969603,10
+5,4eb823855c5c5a532128eb07,8.7,Аптека марихуаны,Coffeeshop 1e Hulp,Marnixstraat 194,1016 TJ,Amsterdam,/v/coffeeshop-1e-hulp/4eb823855c5c5a532128eb07,52.37158856330672,4.875873137401407,10
+6,4b78952df964a5205ed82ee3,8.1,Аптека марихуаны,Amnesia,Herengracht 133,1015 BG,Amsterdam,/v/amnesia/4b78952df964a5205ed82ee3,52.37563070869537,4.888934404170686,10
+7,4dc28d7d22717802a728ceb9,8.3,Аптека марихуаны,Green House Coffeeshop,Haarlemmerstraat 64,1013 ET,Amsterdam,/v/green-house-coffeeshop/4dc28d7d22717802a728ceb9,52.38027114629138,4.892073712894659,10
+8,4da0d1da540ea1cd96105ade,7.8,Аптека марихуаны,Coffeeshop New Times,Spuistraat 260,1012 VW,Amsterdam,/v/coffeeshop-new-times/4da0d1da540ea1cd96105ade,52.370536374030266,4.889128370321583,10
+9,4a2705b1f964a5207b881fe3,7.9,Аптека марихуаны,Barney's Lounge,Reguliersgracht 27HS,1017 LK,Amsterdam,/v/barneys-lounge/4a2705b1f964a5207b881fe3,52.36393319338498,4.896062387596505,1
+10,4db13d245da32cf2df57903d,8.5,Аптека марихуаны,Greenhouse,Oudezijds Voorburgwal 191,1012 EW,Amsterdam,/v/greenhouse/4db13d245da32cf2df57903d,52.371597,4.895958,1
+11,4a270582f964a520f4871fe3,9.3,Аптека марихуаны,Katsu,Eerste van der Helststraat 70HS,1072 NZ,Amsterdam,/v/katsu/4a270582f964a520f4871fe3,52.35489439699766,4.893398947252214,1
+12,4a27056ff964a520c0871fe3,8.4,Аптека марихуаны,Coffeeshop Kashmir,Jan Pieter Heijestraat 82,1053 GS,Amsterdam,/v/coffeeshop-kashmir/4a27056ff964a520c0871fe3,52.363993,4.862975,5
+13,55f95290498e2b748c9e5358,9.3,Кофейня,Bocca,Kerkstraat 96-98,1017 GP,Amsterdam,/v/bocca/55f95290498e2b748c9e5358,52.36443129817435,4.886863899263005,1
+14,4a270593f964a5202b881fe3,7.8,Аптека марихуаны,The Dolphins,Kerkstraat 39,1017 GB,Amsterdam,/v/the-dolphins/4a270593f964a5202b881fe3,52.3655134842597,4.885249442676935,1
+15,4c50931e60479c7484ea3893,8.8,Аптека марихуаны,Barney's Coffeeshop,Haarlemmerstraat 102,1013 EW,Amsterdam,/v/barneys-coffeeshop/4c50931e60479c7484ea3893,52.38064081849249,4.890922243829875,10
+16,4d0c84237d28721ed64cf320,8.8,Аптека марихуаны,420 Café,Oude Brugsteeg 27,1012 JN,Amsterdam,/v/420-caf%C3%A9/4d0c84237d28721ed64cf320,52.37595263871259,4.895925214375675,10
+17,559ab493498e68db4e5fb2ce,8.6,Аптека марихуаны,Boerejongens,Utrechtsestraat 21,1017 VH,Amsterdam,/v/boerejongens/559ab493498e68db4e5fb2ce,52.36487630203137,4.897870842548237,1
+18,4c5c91ab9b28d13a80345770,8.5,Аптека марихуаны,Boerejongens,Baarsjesweg 239,1058 AA,Amsterdam,/v/boerejongens/4c5c91ab9b28d13a80345770,52.36229982767129,4.8576473547482575,5
+19,5390600e498ea928667afb97,9.4,Кофейня,Back to Black,Weteringstraat 48,1017 SP,Amsterdam,/v/back-to-black/5390600e498ea928667afb97,52.36102,4.888569,1
+20,55d9a8ed498e383410e2511a,9.0,Кофейня,TOKI,Binnen Dommersstraat 15,1013 HK,Amsterdam,/v/toki/55d9a8ed498e383410e2511a,52.382969453995486,4.885552947198834,10
+21,54610cb3498efa0b46f53e42,8.9,Кафе,Koffie Academie,Overtoom 95,1053 HD,Amsterdam,/v/koffie-academie/54610cb3498efa0b46f53e42,52.362548251671626,4.874659680221923,5
+22,50f5c4528055f0bbf899c5d5,8.5,Кофейня,Quartier Putain,Oudekerksplein 4,1012 GZ,Amsterdam,/v/quartier-putain/50f5c4528055f0bbf899c5d5,52.3744749435854,4.898771673778137,1
+23,4effa07102d580f8efbf10a6,7.3,Кофейня,Coffeeshop The Other Side,Reguliersdwarsstraat 6,1017 BM,Amsterdam,/v/coffeeshop-the-other-side/4effa07102d580f8efbf10a6,52.36687533891502,4.889218391196501,1
+24,4a270574f964a520cc871fe3,8.5,Аптека марихуаны,Paradox,Eerste Bloemdwarsstraat 2-R,1016 KS,Amsterdam,/v/paradox/4a270574f964a520cc871fe3,52.37457970826493,4.8813144476739945,10
+25,4a2705b2f964a52082881fe3,7.5,Аптека марихуаны,Coffeeshop Popeye,Haarlemmerstraat 63,1013 EK,Amsterdam,/v/coffeeshop-popeye/4a2705b2f964a52082881fe3,52.38002214523061,4.892773479408918,10
+26,4a2705a8f964a52062881fe3,8.4,Аптека марихуаны,Prix d'Ami,Haringpakkerssteeg 3,1012 LR,Amsterdam,/v/prix-dami/4a2705a8f964a52062881fe3,52.376767711890906,4.89732312980509,10
+27,4a270572f964a520c8871fe3,8.6,Аптека марихуаны,Abraxas,Jonge Roelensteeg 12,1012 PL,Amsterdam,/v/abraxas/4a270572f964a520c8871fe3,52.37201733554727,4.891073107014094,10
+28,4b82cb77f964a52077e530e3,7.5,Аптека марихуаны,Dampkring,Haarlemmerstraat 44,1013 ES,Amsterdam,/v/dampkring/4b82cb77f964a52077e530e3,52.380024,4.892907,10
+29,4a2705bff964a520b8881fe3,7.8,Кофейня,La Grotte,Haarlemmerstraat 34HS,1013 ES,Amsterdam,/v/la-grotte/4a2705bff964a520b8881fe3,52.37981628412347,4.89327476770223,10
